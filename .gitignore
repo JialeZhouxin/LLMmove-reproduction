@@ -33,7 +33,6 @@ LLMpoi/LLMMove/output/
 
 # Reasonix config
 .reasonix/
-AGENTS.md
 reasonix.toml
 
 # Large results
