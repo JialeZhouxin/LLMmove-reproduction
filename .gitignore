@@ -30,3 +30,12 @@ LLMpoi/LLMMove/output/
 # API keys
 .env
 *.key
+
+# Reasonix config
+.reasonix/
+AGENTS.md
+reasonix.toml
+
+# Large results
+results/
+tmp/
