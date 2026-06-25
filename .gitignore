@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (large files)
+data/NYC/NYC_train.csv
+data/NYC/NYC_val.csv
+data/TKY/TKY_train.csv
+data/TKY/TKY_val.csv
+data/CA/CA_train.csv
+data/CA/CA_val.csv
+
+# API cache (regenerate on demand)
+LLMpoi/LLMMove/output/
+
+# API keys
+.env
+*.key
